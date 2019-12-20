@@ -1,5 +1,5 @@
 {
-  "name": "packages-test",
+  "name": "@sricc/packages-test",
   "version": "1.0.2",
   "main": "index.js",
   "repository": "git@github.com:sricc/packages-test.git",
